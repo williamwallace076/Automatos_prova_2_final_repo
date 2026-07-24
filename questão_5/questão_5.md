@@ -1,4 +1,4 @@
-## 📌 Descrição do Algoritmo
+## Questão 5
 
 Nessa resolução, a Máquina de Turing aplica a função $f(m,n) = \max(m-n, 0)$, onde $m$ e $n$ equivalem a números naturais representados na fita por meio da notação unária $1^m01^n$.
 
